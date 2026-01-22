@@ -1,0 +1,14 @@
+/Users/michaelhammer/Downloads/Mission3Assignment-master/bin/Debug/net8.0/Mission3Assignment
+/Users/michaelhammer/Downloads/Mission3Assignment-master/bin/Debug/net8.0/Mission3Assignment.deps.json
+/Users/michaelhammer/Downloads/Mission3Assignment-master/bin/Debug/net8.0/Mission3Assignment.runtimeconfig.json
+/Users/michaelhammer/Downloads/Mission3Assignment-master/bin/Debug/net8.0/Mission3Assignment.dll
+/Users/michaelhammer/Downloads/Mission3Assignment-master/bin/Debug/net8.0/Mission3Assignment.pdb
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.AssemblyInfoInputs.cache
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.AssemblyInfo.cs
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.csproj.CoreCompileInputs.cache
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.dll
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/refint/Mission3Assignment.dll
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.pdb
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.genruntimeconfig.cache
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/ref/Mission3Assignment.dll
