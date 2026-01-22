@@ -12,3 +12,4 @@
 /Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.pdb
 /Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.genruntimeconfig.cache
 /Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/ref/Mission3Assignment.dll
+/Users/michaelhammer/Downloads/Mission3Assignment-master/obj/Debug/net8.0/Mission3Assignment.sourcelink.json
